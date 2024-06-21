@@ -1,0 +1,208 @@
+.thobdu {
+    display: flex;
+    justify-content: center;
+}
+
+.head {
+    border-radius: 50%;
+    background-color: rgb(255, 175, 117);
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.kapal {
+    margin-top: 80px;
+    /* background-color: aqua; */
+    height: 30px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.nen-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nen {
+    background-color: black;
+    height: 12px;
+    width: 80px;
+    border-radius: 0.3rem;
+}
+
+.nen-1 {
+    rotate: 10deg;
+}
+
+.nen-2 {
+    rotate: -10deg;
+}
+
+.aankh-container {
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.aankh {
+    background-color: black;
+    height: 50px;
+    width: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-self: center;
+    align-items: center;
+}
+
+.aankhNubachchu {
+    margin-left: 14%;
+    background-color: white;
+    height: 35px;
+    width: 28px;
+    border-radius: 50%;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.kiki {
+    margin-top: 10%;
+    background-color: black;
+    height: 25px;
+    width: 13px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.safed-prakash {
+    margin-top: 55%;
+    background-color: antiquewhite;
+    height: 10px;
+    width: 5px;
+    border-radius: 50%;
+}
+
+.naak {
+    margin-top: 15%;
+    height: 50px;
+    width: 100px;
+    /* background-color: burlywood; */
+    display: flex;
+    justify-content: center;
+}
+
+.kana {
+    background-color: antiquewhite;
+    height: 40px;
+    width: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.kana-1 {
+    /* border: 1px solid black; */
+    border-top-left-radius: 0.3rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.kana-2 {
+    /* border: 1px solid black; */
+    border-top-right-radius: 0.3rem;
+    border-bottom-right-radius: 1rem
+}
+
+.actual-kana {
+    height: 10px;
+    width: 12px;
+    background-color: black;
+    margin-top: 150%;
+    border-radius: 1rem;
+}
+
+.actual-kana-1 {
+    border-bottom-left-radius: 4rem;
+    border-top-left-radius: 0rem;
+}
+
+.actual-kana-2 {
+    border-bottom-right-radius: 4rem;
+    border-top-right-radius: 0rem;
+}
+
+.modhhu {
+    background-color: rgb(255, 135, 135);
+    height: 60px;
+    width: 110px;
+    border-top-left-radius: 0.3rem;
+    border-top-right-radius: 0.3rem;
+    border-bottom-left-radius: 3rem;
+    border-bottom-right-radius: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.uparNaDant {
+    margin-left: 4.5%;
+    display: flex;
+    flex-direction: row;
+    /* background-color: azure; */
+    height: 20px;
+    width: 100px;
+}
+
+.t1 {
+    margin-left: 5px;
+}
+
+.t {
+    height: 18px;
+    width: 15px;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    background-color: aqua;
+    margin-right: 5px;
+}
+
+.nichenaNaDant {
+    margin-left: 4.5%;
+    display: flex;
+    flex-direction: row;
+    /* background-color: azure; */
+    height: 20px;
+    width: 100px;
+}
+
+.tb1 {
+    margin-left: 12px;
+    rotate: 28deg;
+    margin-top: -7px;
+}
+
+.tb4 {
+    rotate: -22deg;
+    margin-top: -6px;
+}
+
+.tb {
+    height: 18px;
+    width: 15px;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    background-color: aqua;
+    margin-right: 5px;
+}
+
+.jeebh {
+    height: 15px;
+    width: 50px;
+    background-color: pink;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    align-self: center;
+}
